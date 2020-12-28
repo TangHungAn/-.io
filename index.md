@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+<!DOCTYRE html>
+<head>
+  <title>白癡公主</title>
+  </head>
+  <body bgcolor="#FFF5EE">
 
-You can use the [editor on GitHub](https://github.com/TangHungAn/-.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TangHungAn/-.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+  <h1 align="center">
+    <font face="標楷體">
+      <font size=12>
+      -白癡公主-
+        </font>
+        </font>
+  </h1>
+    <pre>
+  <img src="https://yt3.ggpht.com/ytc/AAUvwnhuZCXtQlptui2LtSHgKZdUqu9Syid5AlMvw8QKRA=s900-c-k-c0x00ffffff-no-rj" align="center" width="900" heigh="400">           <a href="https://y0112.github.io/firstpage.io/" target="_blank"><img src="https://i.imgur.com/PHi3HSK.png" width="100" heigh="100"></a>回首頁
+    </pre>
+    <pre>
+    <blink>
+      <font size=5.5>                                                                                                                                                                                                                       
+       白癡公主Ａ減
+         有一點專業的配音、惡搞、教大家做有可能可以吃的菜
+         →影片不定期更新，訂閱頻道，立馬收到通知。  
+         白癡公主，綽號：A減、痴痴、王美、貧乳界女神，為網路紅人、知名YouTuber，身兼影片製作人、後製剪接師、演員。2010年代初期以學校作品搞笑二創卡通配音影片爆紅，後以怪怪美少女形象，推出各種露          臉系列影片，例如<小資女不專業自理餐時間>、<痴的角落>、<誰來痴家 痴去誰家>、<癡驚大發現>等。白癡公主之前本身有工作，並非全職YouTuber，因此也常遇到時間分配問題，通常是在下班後與週末時間          製作影片，不過她也曾羨慕別人周末出遊「我卻宅在電腦前剪片」，擔心被嗆「沒更新還出去玩！？」不過調整心態後，白癡公主週末至少會留空檔休息，放鬆心情也讓工作效率更好，現為台灣訂閱數第二高的女          性個人YouTuber。                    <a href="https://www.facebook.com/BaiChiGongZhu" target="_blank"><img src="https://i.imgur.com/BJ8Xl3S.png" width="100" heigh="100"></a>Onion Man 臉書
+                                   <a href="https://www.instagram.com/87acup/" target="_blank"><img src="https://images-ext-1.discordapp.net/external/WALYXnly3XlMxh5gDaZdUjapyCtBt21j6xh1VCiFGQM/https/i.imgur.com/Jc87zsX.png?width=603&height=599" width="100" heigh="100"></a>Onion Man Instagram
+                                                            <a href="https://www.youtube.com/user/ATienDai" target="_blank"><img src="https://i.imgur.com/cLQ5xmC.png" width="100" heigh="100"></a>Onion Man Youtube
+  
+      </font>
+      </blink>
+    </pre>
+  <span><iframe align="right"width="470" height="220"  src="https://www.youtube.com/embed/GmTvbYwz-YY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span>
+  <span><iframe align="right"width="470" height="220" src="https://www.youtube.com/embed/bhfGbp0CdVo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span>
+  <span><iframe align="right"width="470" height="220" src="https://www.youtube.com/embed/JJ7qMU8HUaA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></span>
+    
